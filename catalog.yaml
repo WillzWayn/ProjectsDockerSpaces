@@ -1,0 +1,19 @@
+tags:
+  - name: ml
+    label: Machine Learning
+  - name: python
+    label: Python
+
+labspaces:
+  - title: ML Bootcamp Lab
+    description: |
+      Hands-on lab to practice machine learning concepts using Python, Jupyter Notebooks, and real datasets.
+    repo: https://github.com/WillzWayn/ml-bootcamp-lab
+    publishedRepo: WillzWayn/ml-bootcamp-lab
+    author: William Wayn
+    datePublished: 2025-12-06
+    level: Beginner
+    tags:
+      - ml
+      - python
+    highlighted: true
